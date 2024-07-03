@@ -32,18 +32,31 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ncthi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ncthi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ncthi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+<p align="center">
+  <code><a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a></code>
+  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
+  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
+  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
+  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
+</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="mailto:caothiu2003@gmail.com"><img src="./assets/gmail_icon.png"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://instagram.com/hi.thine"><img src="./assets/insta_icon.png"/></a>
+<a href="https://facebook.com/cao.thi.3344"><img src="./assets/facebook_icon.png"/></a>
 </p>
