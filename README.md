@@ -1,35 +1,67 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Thi</h2>
+<h2>Hey there! I'm Thi</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 👤 &nbsp;About me
 
+### 💡 &nbsp;Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell%20Script-gray?logo=gnu-bash&style=flat-square)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+
+### 💡 &nbsp;Farmworks and librarys
+![TensorFlow](https://img.shields.io/badge/TensorFlow-007ACC?logo=tensorflow&style=flat-square)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&style=flat-square)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-007ACC?logo=pytorch&style=flat-square)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=flat-square)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-0A2A42?logo=react&style=flat-square)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0A2A12?logo=node.js&style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dot-net&style=flat-square)&nbsp;
+
+### 🛠 &nbsp;Tools & Technologies
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FFFFFF?logo=jupyter&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&style=flat-square)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=2496ED&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-4DC7A0?logo=mqtt&style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&style=flat-square)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-231F20?logo=apache-spark&style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square&logoColor=green&labelColor=black&color=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge&logoColor=white&labelColor=black&color=black)
+![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&style=flat-square)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-FFFFFF?logo=figma&style=flat-square)
+
+### ⚙ &nbsp;Operating system
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square)
+
+
+
+
+
+### 📈 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ncthi">
@@ -37,23 +69,16 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ncthi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<h1 align="center"> Languages/Frameworks I'm good at: </h1>
-<p align="center">
-  <code><a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a></code>
-  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
-  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
-  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
-  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
-  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
-</p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+
+
+
+
+
+
+
+### 🔔 &nbsp;Connect with Me
 
 <p align="center">
 <a href="mailto:caothiu2003@gmail.com"><img src="./assets/gmail_icon.png"/></a>
