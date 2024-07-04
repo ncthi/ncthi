@@ -5,6 +5,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 👤 &nbsp;About me
+My name is Nguyen Cao Thi. I am a third-year student at the University of Information Technology. I am majoring in Computer Network And Data Communications and I am very interested in information technology. I am a hard-working and dedicated student, and I am always looking for new challenges. I am also a team player and I enjoy working with others to achieve common goals.
 
 ### 💡 &nbsp;Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
