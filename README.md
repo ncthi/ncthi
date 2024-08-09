@@ -18,7 +18,7 @@ My name is Nguyen Cao Thi. I am a third-year student at the University of Inform
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-gray?logo=gnu-bash&style=flat-square)&nbsp;
 
 
-### 💡 &nbsp;Farmweorks and libraries
+### 💡 &nbsp;Farmeworks and libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-007ACC?logo=tensorflow&style=flat-square)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&style=flat-square)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-007ACC?logo=pytorch&style=flat-square)&nbsp;
